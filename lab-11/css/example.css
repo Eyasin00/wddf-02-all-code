@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(268,308,54,99B2C3);
+}
+h1{
+	color:rgb(252,66,54):
+}
+body{
+	width:600px;
+	height:400px;
+	/* background-image: url(../Image/images.jpg);
+	background: url(img/images.jpg);
+	background-repeat:no-repeat; 
+	background-position:center; */
+	 
+	 background-image: url(img/images.jpg);
+	 
+	background-attachment:fixed;
+	background-size: 20% 20%;
+	border:1px solid red;
+}
+	

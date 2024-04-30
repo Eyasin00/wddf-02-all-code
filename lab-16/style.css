@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+@font-face{
+	src: url(fonts/papyrus-font/papyrus.ttf);
+	font-family: papyrus;
+}
+body{
+	margin: 0px;
+}
+.cotainer{
+	width: 80%;
+	margin: 0px auto;
+	border: 1px solid purple;
+}
+/* header section start */
+header{
+	height: 200px;
+
+}
+/* header section end */
+
+/* nav section start */
+nav{
+	height: 50px;
+	
+}	
+/* nav section end */
+
+/* main section start */
+main{
+	
+	height: 600px;
+    
+}
+section{
+	width: 70%;
+	height: 100%;
+	float: left;
+	border: 1px solid green;
+	box-sizing: border-box;
+}
+article{
+	width: 100%;
+	height: 50%;
+	border: 1px solid purple;
+}
+article h1{
+	font-family: papyrus;
+	/* font-family: arial; */
+	color: pink;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	text-indent: 100px;
+	letter-spacing: 1px;
+	word-spacing: 10px;
+	font-size: 18px;
+	line-height: 1.5;
+	font-style: normal;
+	font-weight: 400;
+	margin: 0px;
+}
+article p{
+	  font-family: "Jersey 20", sans-serif;
+	/* font-family: papyrus; */
+	/* font-family: 'Brush Script MT'; */
+	color: purple;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	text-indent: 100px;
+	letter-spacing: 1px;
+	word-spacing: 10px;
+	font-size: 18px;
+	line-height: 1.5;
+	font-style: normal;
+	font-weight: 400;
+	margin: 0px;
+}
+aside{
+	width: 30%;
+	height: 100%;
+	float: left;
+	border: 1px solid green;
+	box-sizing: border-box;
+	
+}
+/* main section end */
+
+/* footer section start */
+footer{
+	
+	height: 60px;
+	
+}
+/* footer section end */
